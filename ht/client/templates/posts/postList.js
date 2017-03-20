@@ -10,6 +10,6 @@
 
 Template.postsList.helpers({
     posts: function(){
-        return Posts.find({author: 'Jon'});
+        return Posts.find();
     }
 });

@@ -1,0 +1,16 @@
+meteor add underscore
+
+meteor add twbs:bootstrap
+
+meteor add sacha:spin
+
+meteor remove autopublish
+
+meteor add autoform
+
+
+meteor add accounts-ui
+
+meteor add ian:accounts-ui-bootstrap-3
+
+meteor add accounts-password
